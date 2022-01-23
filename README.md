@@ -57,7 +57,7 @@ Click any of the gifs for a playlist of full video demos of the functionality
 
     								MIT License
 
-    		"Employee-Tracker"   Copyright (C) 2021 Erik Jones
+    		"a-great-back-end"   Copyright (C) 2021 Erik Jones
 
     		Permission is hereby granted, free of charge, to any person obtaining a copy
     		of this software and associated documentation files (the "Software"), to deal
